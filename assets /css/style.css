@@ -278,6 +278,7 @@ footer ul li a:hover {
 
    .projectborder {
         padding: 10px;
+        justify-content: center; 
 }
 
     footer { 

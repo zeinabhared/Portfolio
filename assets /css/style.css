@@ -275,9 +275,9 @@ footer ul li a:hover {
         flex-direction: column;
         padding: 20px;
 }
-
-   .projectborder {
-        justify-content: center; 
+      
+    .projectbox { 
+       justify-content: center;
 }
 
     footer { 
@@ -319,6 +319,10 @@ footer ul li a:hover {
     .section {
       flex-direction: column;
       padding: 20px;
+    }
+    
+    .projectbox { 
+       justify-content: center;
     }
 
     footer { 

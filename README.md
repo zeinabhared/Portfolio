@@ -17,14 +17,14 @@ I kept the following requirements in mind while writing the HTML and CSS:
 This section has placeholder text where I will place more detailed text about myself. 
 
 ## Work Section 
-This section has various images that displays the projects that I will complete in this bootcamp. Currently there are placeholder images for each one and are linked to each project. 
+This section has various images that displays the projects that I will complete in this bootcamp. Currently there are placeholder images for each project and each image is linked to each project. 
 
 ## Contact Me Section 
 This section has my contact information which includes my phone number, email, GitHub page, and Linkedin page. 
 
-Link to deployed application: https://zeinabhared.github.io/portfolio-/
+### Link to deployed application: https://zeinabhared.github.io/portfolio-/
 
-Screenshots: 
+## Screenshots of the webpage: 
 
 ![screenshot 1](./assets%20/images/Screenshot-1.png)
 

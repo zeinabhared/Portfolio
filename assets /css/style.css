@@ -252,20 +252,12 @@ footer ul li a:hover {
   /* Media Queries - Large smartphones */
   @media screen and (max-width: 768px) {
    .hero .quote {
-<<<<<<< HEAD
-        font-size: 16px;
-=======
         font-size: 14px;
->>>>>>> 920be4dfbc0cfe03671db0f085c4ac2c15b760df
         padding-right: 5px;
    }
    
    #author {
-<<<<<<< HEAD
-        font-size: 14px;
-=======
         font-size: 12px;
->>>>>>> 920be4dfbc0cfe03671db0f085c4ac2c15b760df
    }
 
    .hero {
@@ -283,17 +275,10 @@ footer ul li a:hover {
         flex-direction: column;
         padding: 20px;
 }
-<<<<<<< HEAD
-
-    .projectbox { 
-       justify-content: center;
-    }
-=======
       
     .projectbox { 
        justify-content: center;
 }
->>>>>>> 920be4dfbc0cfe03671db0f085c4ac2c15b760df
 
     footer { 
         flex-direction: column;
@@ -335,17 +320,10 @@ footer ul li a:hover {
       flex-direction: column;
       padding: 20px;
     }
-<<<<<<< HEAD
-
-    .projectbox { 
-        justify-content: center;
-     }
-=======
     
     .projectbox { 
        justify-content: center;
     }
->>>>>>> 920be4dfbc0cfe03671db0f085c4ac2c15b760df
 
     footer { 
         flex-direction: column;
